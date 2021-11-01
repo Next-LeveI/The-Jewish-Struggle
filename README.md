@@ -9,5 +9,5 @@ A shooting and trivia game that describes the struggle of the State of Israel fr
 
 הפלטפורמות שאליהן נועד המשחק הן: מחשב רגיל וקונסולת משחקים (סוניפלייסטיישן, אקסבוקס).
 
-לפירוט המלא יש ללחוץ [כאן](https://github.com/Next-LeveI/Beat-The-Virus/blob/main/formal-elements.md)
+לפירוט המלא יש ללחוץ [כאן](https://github.com/Next-LeveI/The-Jewish-Struggle/blob/main/formal-elements.md)
 
